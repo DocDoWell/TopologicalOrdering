@@ -31,6 +31,7 @@ public class App {
         graph.add(c);
         graph.add(d);
         graph.add(e);
+        graph.add(f);
 
         for(int i=0; i< graph.size(); i++){
             if(!graph.get(i).isVisited()){
